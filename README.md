@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anilyangin
 - 👀 I’m interested in Music, Technology, Art, Science, Design and Engineering 
 - 🌱 I’m currently learning Introduction to AI, CS50, Machine Learning, Processing, Touch Designer and Python
-- 💞️ I’m looking to collaborate on musictech x neurotech x biotech projects
+- 💞️ I’m looking to collaborate on creative projects on musictech x neurotech x biotech intersections
 - 📫 How to reach me is easy as I am @anilyangin everywhere 
 
 <!---
